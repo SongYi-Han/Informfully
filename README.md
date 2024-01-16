@@ -1,8 +1,6 @@
-# Project Wiki: Diversity Framework for Recommender System
+# Informfully: Diversity Framework for Recommender System
 
-The wiki page for this project includes a general explanation of the project, as well as detailed implementation descriptions for each of the three parts. The page also includes information on how the Cornac framework was extended to evaluate various recommender systems in terms of diversity. Additionally, the page also includes code snippets and examples to help users get started with the framework.
-
-The goal of this master project is to extend the existing recommender system evaluation framework, [Cornac](https://cornac.readthedocs.io/en/latest/), to go beyond accuracy and include diversity as an important evaluation metric. Overall, the project consists of three main parts: 1). enhancing datasets to be able to deal with diversity, 2). implementing diversity metrics, and 3). extending Cornac's recommendation algorithms.
+The goal of this project is to extend the existing recommender system evaluation framework, [Cornac](https://cornac.readthedocs.io/en/latest/), to go beyond accuracy and include diversity as an important evaluation metric. Overall, the project consists of three main parts: 1). enhancing datasets to be able to deal with diversity, 2). implementing diversity metrics, and 3). extending Cornac's recommendation algorithms.
 
 Overall, this project represents an important step forward in the development of recommender systems that take diversity into account. By enhancing existing datasets, developing new diversity metrics, and extending Cornac's recommendation algorithm, we aim to create a more inclusive and diverse online ecosystem. The resulting framework will be an invaluable tool for researchers and practitioners working in the field of recommender systems.
 
